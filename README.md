@@ -1,2 +1,4 @@
-# ReactBoilerplate
-A simple boilerplate for react project.
+# ReactTodo
+A simple Todo application made with React project.
+
+React is awesome.
