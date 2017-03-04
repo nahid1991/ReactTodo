@@ -18,4 +18,11 @@ export var addTodo = (text) => {
     type: 'ADD_TODO',
     text
   }
-}
+};
+
+export var toggleTodo = (id) => {
+  return {
+    type: 'TOGGLE_TODO',
+    id
+  }
+};
