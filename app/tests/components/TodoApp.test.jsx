@@ -7,7 +7,8 @@ var $ = require('jquery');
 
 
 var configureStore = require('configureStore');
-var TodoApp = require('TodoApp');
+// var TodoApp = require('TodoApp');
+import {TodoApp} from 'TodoApp';
 // var TodoList = require('TodoList');
 import TodoList from 'TodoList';
 
