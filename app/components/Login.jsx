@@ -20,7 +20,7 @@ export var Login = React.createClass({
               <p>
                 Login with Github account below.
               </p>
-              <button className="button" onClick={this.onLogin()}>Login With Github</button>
+              <button className="button" onClick={this.onLogin}>Login With Github</button>
             </div>
           </div>
         </div>
